@@ -5,6 +5,9 @@
         "context": ".."
     },
     "workspaceFolder": "/lab_004",
+    "mounts": [
+        "source=${localWorkspaceFolder},target=/lab_004,type=bind"
+    ],
     "customizations": {
         "vscode": {
             "extensions": [

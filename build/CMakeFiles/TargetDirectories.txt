@@ -1,0 +1,3 @@
+/lab_004/build/CMakeFiles/lab_004.dir
+/lab_004/build/CMakeFiles/edit_cache.dir
+/lab_004/build/CMakeFiles/rebuild_cache.dir

@@ -7,4 +7,3 @@ RUN apt-get update && apt-get install -y \
 RUN pip install numpy --break-system-packages
 WORKDIR /lab_004
 
-COPY . .
