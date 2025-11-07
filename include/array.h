@@ -84,7 +84,7 @@ public:
     }
 
 private:
-    std::unique_ptr<T[]> data_;
     size_t size_;
     size_t capacity_;
+    std::unique_ptr<T[]> data_;
 };
